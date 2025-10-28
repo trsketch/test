@@ -2,4 +2,5 @@ Original commits
 A B E
 
 feature rebase commits
-C
+C D
+
